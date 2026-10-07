@@ -1,0 +1,41 @@
+JobID,DepartmentID,JobTitle,JobLevel,Exempt,DepartmentName,FunctionGroup,BaseSalaryMin,BaseSalaryMax
+1,1,Chief Executive Officer,10,True,Executive,Corporate,400000.0,560000
+2,1,Chief Operating Officer,9,True,Executive,Corporate,310000.0,420000
+3,1,Vice President,8,True,Executive,Corporate,250000.0,340000
+4,2,Software Engineer I,1,True,Engineering,Technical,43000.0,62000
+5,2,Software Engineer II,2,True,Engineering,Technical,62000.0,88000
+6,2,Senior Software Engineer,3,True,Engineering,Technical,86000.0,118000
+7,2,Engineering Manager,4,True,Engineering,Technical,112000.0,150000
+8,2,Director of Engineering,6,True,Engineering,Technical,185000.0,235000
+9,3,Product Analyst,2,True,Product,Technical,62000.0,88000
+10,3,Product Manager,3,True,Product,Technical,86000.0,118000
+11,3,Senior Product Manager,4,True,Product,Technical,112000.0,150000
+12,3,Director of Product,6,True,Product,Technical,185000.0,235000
+13,4,IT Support Specialist,1,False,IT,Technical,43000.0,62000
+14,4,Systems Administrator,2,True,IT,Technical,62000.0,88000
+15,4,IT Manager,4,True,IT,Technical,112000.0,150000
+16,5,Financial Analyst,2,True,Finance,Corporate,62000.0,88000
+17,5,Senior Financial Analyst,3,True,Finance,Corporate,86000.0,118000
+18,5,Finance Manager,4,True,Finance,Corporate,112000.0,150000
+19,5,Director of Finance,6,True,Finance,Corporate,185000.0,235000
+20,6,HR Coordinator,1,False,HR,Corporate,43000.0,62000
+21,6,HR Generalist,2,True,HR,Corporate,62000.0,88000
+22,6,HR Business Partner,3,True,HR,Corporate,86000.0,118000
+23,6,HR Manager,4,True,HR,Corporate,112000.0,150000
+24,6,Director of HR,6,True,HR,Corporate,185000.0,235000
+25,7,Marketing Specialist,1,True,Marketing,Business,43000.0,62000
+26,7,Digital Marketing Manager,3,True,Marketing,Business,86000.0,118000
+27,7,Marketing Director,5,True,Marketing,Business,145000.0,185000
+28,8,Sales Development Representative,1,False,Sales,Business,43000.0,62000
+29,8,Account Executive,2,True,Sales,Business,62000.0,88000
+30,8,Sales Manager,4,True,Sales,Business,112000.0,150000
+31,8,Director of Sales,6,True,Sales,Business,185000.0,235000
+32,9,Operations Analyst,2,True,Operations,Business,62000.0,88000
+33,9,Operations Manager,4,True,Operations,Business,112000.0,150000
+34,9,Director of Operations,6,True,Operations,Business,185000.0,235000
+35,10,Customer Support Representative,1,False,Customer Support,Business,43000.0,62000
+36,10,Customer Support Manager,3,True,Customer Support,Business,86000.0,118000
+37,10,Director of Customer Support,5,True,Customer Support,Business,145000.0,185000
+38,11,Legal Analyst,2,True,Legal,Corporate,62000.0,88000
+39,11,Corporate Counsel,4,True,Legal,Corporate,112000.0,150000
+40,11,General Counsel,8,True,Legal,Corporate,250000.0,340000
